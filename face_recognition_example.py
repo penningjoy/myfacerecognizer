@@ -1,5 +1,5 @@
 '''
-Program - Natural Language Processing
+Program - My Face Recognizer
 Developer - Joydeep Banerjee
 Description - The program is capable to do face recognition on Unknown pictures 
               by learning faces from a Known set. The face_recognition library
